@@ -4,14 +4,14 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>Raudus FishFacts</name>
+	<name>Tablet Restaurant</name>
 
 	<description>
 	</description>
 
-	<author href="http://www.raudus.com"
-		email="igor@klopov.com">
-		Raudus.com
+	<author href="http://www.halkyon.com"
+		email="tom@halk.com">
+		Halkyon.com
 	</author>
 
 	<gap:platforms>
